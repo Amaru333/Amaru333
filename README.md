@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | UI/UX Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+seamless+web+experiences;React+%7C+Next.js+%7C+Node.js+%7C+React+Native;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+seamless+web+experiences;React+%7C+Node.js+%7C+React+Native;Always+learning+new+things" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Amaru333&color=58a6ff&style=flat-square)](https://github.com/Amaru333)
 
