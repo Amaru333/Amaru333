@@ -115,9 +115,6 @@ const amrutesh = {
 
 ---
 
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=Amaru333)](https://komarev.com)
-
 **✨ Thanks for stopping by! ✨**
 
 </div>
